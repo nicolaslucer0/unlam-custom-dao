@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: AlumnoDaoTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.031 s <<< FAILURE! - in AlumnoDaoTest
+TestCreate  Time elapsed: 0.031 s  <<< ERROR!
+java.lang.NullPointerException
+	at AlumnoDaoTest.TestCreate(AlumnoDaoTest.java:48)
+
